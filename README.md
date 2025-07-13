@@ -2,43 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Distributed Logging System</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 30px;
-      line-height: 1.6;
-      background: #f9f9f9;
-    }
-    h1, h2, h3 {
-      color: #2c3e50;
-    }
-    code {
-      background: #eee;
-      padding: 2px 4px;
-      border-radius: 4px;
-    }
-    table {
-      border-collapse: collapse;
-      width: 100%;
-      margin: 20px 0;
-    }
-    table, th, td {
-      border: 1px solid #999;
-    }
-    th, td {
-      padding: 8px 12px;
-      text-align: left;
-    }
-    .architecture {
-      font-family: monospace;
-      white-space: pre;
-      background: #f4f4f4;
-      padding: 10px;
-      border-radius: 5px;
-    }
-  </style>
-</head>
+
 <body>
 
   <h1>Distributed Logging System – Fault Tolerant, Time Synchronized, and Consistent</h1>
